@@ -32,3 +32,6 @@ We are not responsible for any misuse or damage caused by this program. Use this
 
 ❤️ Support me:
 https://www.paypal.me/Relvllahi
+
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+cat ~/.ssh/id_rsa.pub
